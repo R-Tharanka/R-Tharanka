@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruchira Tharanka</h1>
 <h3 align="center">A passionate fronted developer</h3>
 
-- 🔭 I’m currently working on **test1**
+<!--- 🔭 I’m currently working on **test1** -->
 
 - 🌱 I’m currently learning **java**
 
