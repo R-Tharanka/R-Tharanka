@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👯 I’m looking to collaborate on **test1**
+<!-- 👯 I’m looking to collaborate on **test1** -->
 
-- 🤝 I’m looking for help with **test1**
+<!-- 🤝 I’m looking for help with **test1** -->
 
 - 📫 How to reach me **ruchiratharanka1@gmail.com**
 
