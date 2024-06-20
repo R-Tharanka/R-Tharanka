@@ -1,3 +1,10 @@
+<head>
+  <style>
+    img
+      padding:10px;
+  </style>
+</head>
+
 <h1 align="center">Hi 👋, I'm Ruchira Tharanka</h1>
 <h3 align="center">A passionate fronted developer</h3>
 
