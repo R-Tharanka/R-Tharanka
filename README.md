@@ -12,7 +12,7 @@
 <!-- 🤝 I’m looking for help with **test1** -->
 
 - 📫 How to reach me **ruchiratharanka1@gmail.com**
-- <br>
+ <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchira-tharanka-b020992a6) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ruchira-Tharanka) 
