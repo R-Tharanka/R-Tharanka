@@ -1,6 +1,4 @@
 
-
-# 💫 About Me:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Hi 👋, I'm Ruchira Tharanka</h1>
 <h3 align="center">A passionate fronted developer</h3>
@@ -28,5 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=R-Tharanka&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--
+[![](https://visitcount.itsvg.in/api?id=R-Tharanka&icon=0&color=0)](https://visitcount.itsvg.in) 
+-->
 
