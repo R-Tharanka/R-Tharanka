@@ -12,7 +12,8 @@
 <!-- 🤝 I’m looking for help with **test1** -->
 
 - 📫 How to reach me **ruchiratharanka1@gmail.com**
-<br>
+- <br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchira-tharanka-b020992a6) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ruchira-Tharanka) 
 <a href="https://stackoverflow.com/users/17022726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17022726" height="30" width="40" /></a>
