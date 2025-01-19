@@ -25,9 +25,9 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 <br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=R-Tharanka&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=R-Tharanka&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Tharanka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="150" alt="languages graph" />
@@ -46,9 +46,7 @@
  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=R-Tharanka&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=R-Tharanka&icon=0&color=0)](https://visitcount.itsvg.in)
