@@ -26,8 +26,8 @@
 <br>
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width:48%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Tharanka&theme=dark&hide_border=false" style="width:48%;padding-top:10px;padding-bottom:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width:45%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Tharanka&theme=dark&hide_border=false" style="width:45%;padding-top:10px;padding-bottom:10px;"/>
 </div>
 <br/>
 <div align="center">
