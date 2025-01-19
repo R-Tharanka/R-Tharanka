@@ -26,10 +26,12 @@
 <br>
 # 📊 GitHub Stats:
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Tharanka&theme=dark&hide_border=false"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Tharanka&theme=dark&hide_border=false"/>
 </div><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
 
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Tharanka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="150" alt="languages graph" />
