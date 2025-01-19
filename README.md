@@ -29,10 +29,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=R-Tharanka&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Tharanka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
-
+-->
 ---
 
 ![](https://visitcount.itsvg.in/api?id=R-Tharanka&icon=0&color=0)<!--(https://visitcount.itsvg.in) -->
