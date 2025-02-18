@@ -5,8 +5,7 @@
 
 <!--- 🔭 I’m currently working on **test1** -->
 
-- 🌱 I’m currently learning **java**
-
+- 🌱 I’m currently an SE undergraduate at SLIIT
 <!-- 👯 I’m looking to collaborate on **test1** -->
 
 <!-- 🤝 I’m looking for help with **test1** -->
