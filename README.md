@@ -1,15 +1,9 @@
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Hi 👋, I'm Ruchira Tharanka</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-
-<!--- 🔭 I’m currently working on **test1** -->
-
+<h3 align="center">A passionate full-stack developer</h3> <br/>
+ 
 - 🌱 I’m currently an SE undergraduate at SLIIT
-<!-- 👯 I’m looking to collaborate on **test1** -->
-
-<!-- 🤝 I’m looking for help with **test1** -->
-
+- 🔭 I’m currently working on a MERN project <!-- 👯 I’m looking to collaborate on **test1** --> <!-- 🤝 I’m looking for help with **test1** -->
 - 📫 How to reach me **ruchiratharanka1@gmail.com**
  <br>
 
