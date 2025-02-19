@@ -1,7 +1,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Hi 👋, I'm Ruchira Tharanka</h1>
-<h3 align="center">A passionate fronted developer</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <!--- 🔭 I’m currently working on **test1** -->
 
