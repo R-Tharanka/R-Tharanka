@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer</h3> <br/>
  
 - 🌱 I’m currently an SE undergraduate at SLIIT
-- 🔭 I’m currently working on a MERN project <!-- 👯 I’m looking to collaborate on **test1** --> <!-- 🤝 I’m looking for help with **test1** -->
+- 🔭 I’m currently working on a MERN project <!-- 👯 I’m looking to collaborate on **test1** --> <!-- 🤝 I’m looking for help with **test1** y-->
 - 📫 How to reach me **ruchiratharanka1@gmail.com**
  <br>
 
