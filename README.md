@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently an SE undergraduate at SLIIT
 - 🔭 I’m currently working on a [MERN project](https://github.com/R-Tharanka/Food-Delivery-Microservices.git)
-<!-- 👯 I’m looking to collaborate on **test1** --> <!-- 🤝 I’m looking for help with **test1** -->
+<!-- 👯 I’m looking to collaborate on **test1** --> <!--  🤝 I’m looking for help with **test1** -->
 - 📫 How to reach me **ruchiratharanka1@gmail.com**
  <br>
 
