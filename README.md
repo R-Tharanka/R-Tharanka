@@ -70,7 +70,7 @@
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=R-Tharanka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
 <!--[![committers.top badge](https://user-badge.committers.top/sri_lanka/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka/R-Tharanka)-->
