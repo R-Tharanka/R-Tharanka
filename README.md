@@ -1,6 +1,10 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&duration=2500&pause=1500&color=F7F7F7&center=true&vCenter=true&lines=Hi+There+%F0%9F%91%8B;I'm+Ruchira+Tharanka" alt="Typing SVG" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Ruchira Tharanka</h1>
-<h3 align="center">A passionate full-stack developer</h3> <br/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&width=630&lines=A+passionate+full-stack+developer;Software+Engineering+Undergraduate+" alt="Typing SVG" />
+</h3> <br/>
  
 - 🌱 I’m currently an SE undergraduate at SLIIT
 - 🔭 I’m currently working on a [MERN project](https://github.com/R-Tharanka/Food-Delivery-Microservices.git)
