@@ -15,6 +15,8 @@ I’m always open to new challenges — collaborating on open-source projects, t
 
 ---
 
+<img align="right" src="assets/Loop Glitch GIF by Psyklon.gif" alt="Glitch Animation" width="200"/>
+
 ### 🔭 Currently
 - Building a **MERN microservices** food-delivery platform: [Food-Delivery-Microservices](https://github.com/R-Tharanka/Food-Delivery-Microservices)
 
