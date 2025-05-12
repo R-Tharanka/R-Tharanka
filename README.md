@@ -4,21 +4,33 @@
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&width=630&lines=A+passionate+full-stack+developer;Software+Engineering+Undergraduate+" alt="Typing SVG" />
-</h3> <br/>
- 
-- 🌱 I’m currently an SE undergraduate at SLIIT
-- 🔭 I’m currently working on a [MERN project](https://github.com/R-Tharanka/Food-Delivery-Microservices.git)
-<!-- 👯 I’m looking to collaborate on **test1**  --> <!-- 🤝 I’m looking for help with **test1** -->
-- 📫 How to reach me **ruchiratharanka1@gmail.com**
- <br>
+</h3>
+
+## 🧑🏻‍💻 About Me
+I’m **Ruchira Tharanka**, a driven and self-motivated Software Engineering undergrad at SLIIT who loves crafting resilient, full-stack applications. My wheelhouse is the **MERN stack**—architecting React front-ends that communicate seamlessly with Node.js/Express back-ends and MongoDB data stores. I thrive on solving complex problems, whether it’s shaving milliseconds off an API response or untangling a gnarly state-management bug.
+
+Lately, I’ve been expanding beyond JavaScript: diving into **Next.js** for blazing-fast, SEO-friendly web apps; mastering **Docker** for containerized workflows; and studying **software architecture** and **design patterns** so my systems scale and stand the test of time. When I’m not coding, you’ll catch me gaming or curating playlists to fuel my focus.
+
+I’m always open to new challenges—collaborating on open-source projects, tackling hackathon sprints, or swapping insights on cloud-native best practices. Let’s build something great together!
+
+---
+
+### 🔭 Currently
+- Building a **MERN microservices** food-delivery platform: [Food-Delivery-Microservices](https://github.com/R-Tharanka/Food-Delivery-Microservices)
+
+📫 **Reach me:**  
+- ✉️ ruchiratharanka1@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/ruchira-tharanka-b020992a6)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchira-tharanka-b020992a6) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ruchira-Tharanka) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17022726) 
-<br><br>
-# 💻 Tech Stack
+<br>
 
-## 🌐 Frontend
+---
+## 💻 Tech Stack
+
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -28,18 +40,18 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-## 🖥️ Backend
+### 🖥️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-## 🗃️ Database
+### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⚙️ Dev Tools & Platforms
+### ⚙️ Dev Tools & Platforms
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -49,7 +61,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
-## 🧠 Programming Languages
+### 🧠 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -60,18 +72,18 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🎨 Design & UI
+### 🎨 Design & UI
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 🧩 CMS & Others
+### 🧩 CMS & Others
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-<br>
+---
 
-# 📊 GitHub Stats: 
+## 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=R-Tharanka&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
