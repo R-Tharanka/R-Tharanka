@@ -16,13 +16,13 @@ I’m always open to new challenges — collaborating on open-source projects, t
 ---
 
 <img align="right"
-     src="https://raw.githubusercontent.com/R-Tharanka/R-Tharanka/main/assets/LoopGlitch.gif"
+     src="https://raw.githubusercontent.com/R-Tharanka/R-Tharanka/main/assets/Loop Glitch GIF by Psyklon.gif"
      alt="Glitch Animation"
      width="200" />
 
 
 ### 🔭 Currently
-- Building a **MERN microservices** food-delivery platform: [Food-Delivery-Microservices](https://github.com/R-Tharanka/Food-Delivery-Microservices)
+- Building a **MERN microservices** [food-delivery platform](https://github.com/R-Tharanka/Food-Delivery-Microservices)
 
 📫 **Reach me:**  
 - ✉️ ruchiratharanka1@gmail.com  
