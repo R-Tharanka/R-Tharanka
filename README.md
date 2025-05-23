@@ -24,7 +24,7 @@ I’m always open to new challenges — collaborating on open-source projects, t
 ### 🔭 Currently
 - Building a **MERN microservices** [food-delivery platform](https://github.com/R-Tharanka/Food-Delivery-Microservices)
 
-📫 **Reach me:**  
+### 📫 **Reach me:**  
 - ✉️ ruchiratharanka1@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/ruchira-tharanka-b020992a6)
 
