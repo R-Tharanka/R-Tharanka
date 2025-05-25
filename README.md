@@ -7,7 +7,7 @@
 </h3>
 
 ## 🧑🏻‍💻 About Me
-I’m **Ruchira Tharanka**, a driven and self-motivated Software Engineering undergrad at SLIIT who loves crafting resilient, full-stack applications. My wheelhouse is the **MERN stack**—architecting React front-ends that communicate seamlessly with Node.js/Express back-ends and MongoDB data stores. I thrive on solving complex problems, whether it’s shaving milliseconds off an API response or untangling a gnarly state-management bug. 
+I’m **Ruchira Tharanka**, a driven and self-motivated Software Engineering undergraduate at SLIIT who loves crafting resilient, full-stack applications. My wheelhouse is the **MERN stack**—architecting React front-ends that communicate seamlessly with Node.js/Express back-ends and MongoDB data stores. I thrive on solving complex problems, whether it’s shaving milliseconds off an API response or untangling a gnarly state-management bug. 
 
 Lately, I’ve been expanding beyond JavaScript: diving into **Next.js** for blazing-fast, SEO-friendly web apps; mastering **Docker** for containerized workflows; and studying **software architecture** and **design patterns** so my systems scale and stand the test of time. When I’m not coding, you’ll catch me gaming or curating playlists to fuel my focus.
 
