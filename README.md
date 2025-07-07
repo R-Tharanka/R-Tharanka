@@ -22,7 +22,7 @@ I’m always open to new challenges — collaborating on open-source projects, t
 
 
 ### 🔭 Currently
-- Maintaining and enhancing my [personal portfolio site](https://ruchira-portfolio.vercel.app)  
+- Maintaining and enhancing my [personal portfolio site](https://ruchira-portfolio.vercel.app).  
 - Exploring performance optimization techniques in React and Node.js  
 
 ### 📫 **Reach me:**  
