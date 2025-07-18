@@ -11,7 +11,7 @@ I’m **Ruchira Tharanka**, a driven and self-motivated Software Engineering und
 
 Lately, I’ve been expanding beyond JavaScript: diving into **Next.js** for blazing-fast, SEO-friendly web apps; mastering **Docker** for containerized workflows; and studying **software architecture** and **design patterns** so my systems scale and stand the test of time. When I’m not coding, you’ll catch me gaming or curating playlists to fuel my focus.
 
-I’m always open to new challenges — collaborating on open-source projects, tackling hackathon sprints, or swapping insights on cloud-native best practices. Let’s build something great together!
+I’m always open to new challenges, collaborating on open-source projects, tackling hackathon sprints, or swapping insights on cloud-native best practices. Let’s build something great together!
 
 ---
 
