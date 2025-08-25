@@ -94,8 +94,8 @@ I’m always open to new challenges, collaborating on open-source projects, tack
 
 ## 🏆 GitHub Trophies
 <!--[![committers.top badge](https://user-badge.committers.top/sri_lanka/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka/R-Tharanka)-->
-<!-- ![](https://github-trophies.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-![](https://github-profile-trophy.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ <!-- ![](https://github-profile-trophy.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4)  -->
 
 ---
 
