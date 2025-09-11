@@ -85,7 +85,7 @@ I’m always open to new challenges, collaborating on open-source projects, tack
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
----
+--- 
 
 ## 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=R-Tharanka&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -95,7 +95,7 @@ I’m always open to new challenges, collaborating on open-source projects, tack
 ## 🏆 GitHub Trophies
 <!--[![committers.top badge](https://user-badge.committers.top/sri_lanka/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka/R-Tharanka)-->
 ![](https://github-trophies.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
- <!-- ![](https://github-profile-trophy.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4)  -->
+ <!-- ![](https://github-profile-trophy.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 ---
 
