@@ -98,9 +98,15 @@ I’m always open to new challenges, collaborating on open-source projects, tack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Tharanka&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 ## 🏆 GitHub Trophies
-<!--[![committers.top badge](https://user-badge.committers.top/sri_lanka/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka/R-Tharanka)-->
+
+ [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka_private/R-Tharanka)
+<!--
+ [![committers.top badge](https://user-badge.committers.top/sri_lanka/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka/R-Tharanka)
+-->
  ![](https://github-trophies.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+ <!--
+ ![](https://github-profile-trophy.vercel.app/?username=R-Tharanka&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+ -->
 
 ---
 
