@@ -13,6 +13,10 @@ Lately, I’ve been expanding beyond JavaScript: diving into **Next.js** for bla
 
 I’m always open to new challenges, collaborating on open-source projects, tackling hackathon sprints, or swapping insights on cloud-native best practices. Let’s build something great together!
 
+<br/> 
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka_private/R-Tharanka)
+
 ---
 
 <img align="right"
@@ -101,7 +105,6 @@ I’m always open to new challenges, collaborating on open-source projects, tack
 
 ## 🏆 GitHub Trophies
 
- [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka_private/R-Tharanka)
 <!--
  [![committers.top badge](https://user-badge.committers.top/sri_lanka/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka/R-Tharanka)
 -->
