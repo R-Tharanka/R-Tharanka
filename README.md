@@ -31,7 +31,7 @@ I’m always open to new challenges, collaborating on open-source projects, tack
 - Exploring performance optimization techniques in React and Node.js  
 
 ### 📫 **Reach me:**  
-- ✉️ ruchiratharanka1@gmail.com  
+- ✉️ ruchiratharanka2@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/ruchira-tharanka-b020992a6)
 
 ## 🌐 Socials:
