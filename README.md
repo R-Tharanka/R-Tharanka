@@ -15,6 +15,10 @@ I’m always open to new challenges, collaborating on open-source projects, tack
 
 <br/> 
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka/R-Tharanka)
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka_public/R-Tharanka)
+
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/R-Tharanka.svg)](https://user-badge.committers.top/sri_lanka_private/R-Tharanka)
 
 ---
